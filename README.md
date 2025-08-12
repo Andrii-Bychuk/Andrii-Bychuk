@@ -26,6 +26,7 @@ Aspiring **Junior Python Developer** with a technical education background in **
 - 📁 Git, GitHub, PyCharm
 - 🌐 REST APIs
 - 💻 Tkinter GUI
+- 🧑🏻‍💻 Currently learning FastAPI
 
 ---
 
