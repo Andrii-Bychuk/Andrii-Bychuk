@@ -44,7 +44,8 @@ Aspiring **Junior Python Developer** with a technical education background in **
 
 ## 📌 Featured Projects
 
-Coming soon
+### [🛍️ Product Promo Notifier](https://github.com/Andrii-Bychuk/daily-shopping-bot)
+Bot that scrapes deals from e-commerce sites and sends Telegram alerts
 
 
 ---
