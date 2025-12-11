@@ -9,31 +9,51 @@ Aspiring **Junior Python Developer** with a technical education background in **
 - 📖 Self-taught developer with a technical degree in software engineering
 - 🏃 Focused on practical learning and real projects
 - 🔄 Transitioning into IT with a clear goal: become a professional Python developer
-- 📚 Graduate of [100 Days of Code: Python Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - 🎮 Hands-on skills in web development, APIs, web scraping, GUI applications, and data analysis
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
-
+**Languages & Frameworks**
 - 🐉 Python
 - 🌍 Flask, Jinja, HTML, CSS, Bootstrap
-- 🚀 Web Scraping & Automation: Selenium, BeautifulSoup
+- 🌐 REST APIs
+
+**Data & Automation**
+- 🚀 Selenium, BeautifulSoup
 - 📊 Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - 📂 SQLite, SQLAlchemy
-- 📁 Git, GitHub, PyCharm
-- 🌐 REST APIs
+
+**Tools & GUI**
 - 💻 Tkinter GUI
-- 🧑🏻‍💻 Currently learning FastAPI
+- 📁 Git, GitHub, PyCharm
+
+**DevOps & Cloud**
+- 🐳 Docker (basic knowledge)
+- ☁️ AWS (basic experience, deployed projects via GitHub Actions)
+
+**Design**
+- 🎨 Figma (basic knowledge, UI/UX prototyping)
+
+**Currently learning**
+- 🧑🏻‍💻 FastAPI
 
 ---
 
 ## 📚 Courses & Certifications
 
-- ✅ **100 Days of Code: Python Bootcamp** by Angela Yu (Udemy)
-- ✅ Completed 100 structured days covering:
+- ✅ **IT Marathon 5.0 2025 – Diploma of Participation** by EPAM  
+  Completed an intensive program covering key IT skills:
+  - Requirement Analysis
+  - UX/UI Design
+  - Architecture Design
+  - Software Development
+  - Software Testing
+  - Deployment in Cloud
+
+
+- ✅ **100 Days of Code: Python Bootcamp** by Angela Yu (Udemy). Completed 100 structured days covering:
   - Python Fundamentals, Loops, Functions, OOP
   - 15+ GUI projects (Turtle, Tkinter, etc.)
   - 10+ automation/scraping apps with Selenium/BeautifulSoup
@@ -47,6 +67,7 @@ Aspiring **Junior Python Developer** with a technical education background in **
 
 ### [🛍️ Product Promo Notifier](https://github.com/Andrii-Bychuk/daily-shopping-bot)
 Bot that scrapes deals from e-commerce sites and sends Telegram alerts
+
 
 
 ---
@@ -92,4 +113,3 @@ Actively seeking:
 ---
 
 *This is a personal learning profile built to showcase my growth and skills as a junior developer. Thank you for visiting!*
-
